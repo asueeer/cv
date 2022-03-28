@@ -62,12 +62,12 @@ Second prize, *National Undergraduate Mathematics Competition*, China
 ### Patents
 
 `2019`
-Deep Learning-based Signal Detection for LoRa Signal, [CN110099019B](https://patents.google.com/patent/CN110099019B)
+Deep Learning based Signal Detection for LoRa Signal, [CN110099019B](https://patents.google.com/patent/CN110099019B)
 
 ### Open Source Project
 
 `2022`
-__[Design a RISC-V chip and run Unix-like OS on it (working in progress)](https://gitee.com/asueeer/ysyx-workbench)__
+__Design a RISC-V chip and run Unix-like OS on it (working in progress), [repo](https://gitee.com/asueeer/ysyx-workbench)__
 - A debugger to find pesky bugs in code
 - A simulator of riscv64 processor by C
 - A processor core of riscv64 by Verilog
