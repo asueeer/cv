@@ -1,91 +1,96 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Andy's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Wang Yisu (Andy)
+Communication and Information System, Xidian University
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="asueeer@163.com">asueeer@163.com</a> | +(86) 18678907302
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Independent developer
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Programming, especially in C/C++, Go, Java, Rust, Python
 
+Embedded System, especially in edge computing
+
+Instruction Set Architecture, especially in RISC-V RTL design
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Operating System, Database, Distributed System
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013 - 2017`
+__Electrical and Information Engineering, Shandong Agriculture University__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- B.S., Percent Grade: 85.4
 
-- Sizar
+`2017 - 2018`
+__Networked Communications, Loughborough University__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- M.S., Distinction
 
-- Fellow
+`2017 - 2020`
+__Communication and Information System, Xidian University__
+
+- M.S., Percent Grade: 80.4
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2016`
+First prize, *Undergraduate Mathematics Competition*, Shandong, China
 
-Associate, *French Academy of Science*, Paris, France
-
+`2016`
+Second prize, *National Undergraduate Mathematics Competition*, China
 
 
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2019`
+Deep Learning-based Signal Detection for LoRa Signal, [CN110099019B](https://patents.google.com/patent/CN110099019B)
 
+### Open Source Project
+
+`2022`
+__[Design a RISC-V chip and run Unix-like OS on it (working in progress)](https://gitee.com/asueeer/ysyx-workbench)__
+- A debugger to find pesky bugs in code
+- A simulator of riscv64 processor by C
+- A processor core of riscv64 by Verilog
+- Running xv6 OS in the processor core using FPGA
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2020 - 2021`
+__Java Software Engineer__, Huawei
 
-- Warden
-- Minted coins
+- Data-center platform development
+- Data integration platform development
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
+`2021`
+__Full Stack Software Engineer__, Bytedance
+
+- Go backend programming
+- JavaScript/Vue frontend design
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2022 -->
 
 
